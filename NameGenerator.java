@@ -12,9 +12,9 @@ public class NameGenerator{
 	}
 
 	public static String generateName() throws IOException{
-		String filePathFronts = "fronts.txt";
-		String filePathMid = "middles.txt";
-		String filePathEnd = "ends.txt";
+		String filePathFronts = "res/fronts.txt";
+		String filePathMid = "res/middles.txt";
+		String filePathEnd = "res/ends.txt";
 		String name = "";
 		BufferedReader file= new BufferedReader(new FileReader(filePathFronts));
 		BufferedReader file1 = new BufferedReader(new FileReader(filePathMid));

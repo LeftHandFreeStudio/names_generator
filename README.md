@@ -1,4 +1,4 @@
-# #1 assignment form programming tasks
+# #1 assignment from programming tasks
 # names_generator
 Compile classes and run main class NameGenerator.
 You can give one argument (integer number) that will be your generated password length.
